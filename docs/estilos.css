@@ -352,7 +352,7 @@ figcaption { /* estilo para el caption de las imágenes */
 	margin: auto;
 }
 
-/* CAMBIOS PARA <800/
+/* CAMBIOS PARA <800*/
 
 @media screen and (max-width: 800px) {
 
