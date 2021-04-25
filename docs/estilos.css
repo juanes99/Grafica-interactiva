@@ -358,7 +358,7 @@ figcaption { /* estilo para el caption de las imágenes */
 @media screen and (min-width: 801px) and (max-width: 1200px) {
 
 	.menunav {
-	max-width:1000px;  /* esto es para que la primera fila tenga máximo tres botones*/
+	max-width:400px;  /* esto es para que la primera fila tenga máximo tres botones*/
 	}
 
 	.header { /* estilo del encabezado */
