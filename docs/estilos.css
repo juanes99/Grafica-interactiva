@@ -359,7 +359,7 @@ figcaption { /* estilo para el caption de las imágenes */
 /* ENCABEZADO CON TÍTULO */
 
 .header { /* estilo del encabezado */
-	height: 180px;
+	height: 140px;
 	background-color:#f5e3e3;
     background-image: url(Imagenes/Header.png); /* el fondo es una imagen*/
 	background-size:cover;
