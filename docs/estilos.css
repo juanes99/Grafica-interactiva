@@ -384,10 +384,13 @@ h1 {     /* estilo el titulo */
 
 
 
-	.menunav {
-	max-width:500px;  /* esto es para que la primera fila tenga máximo tres botones*/
-	}
-
+/* cambios en la barra de navegacion */
+.buttonav {
+  width: 30%;
+}
+.dropmenu {
+  width: 30%;
+}
 	
 
 	.contenido { /* estilo del div del contenido ancho de la página */
