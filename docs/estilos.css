@@ -352,13 +352,12 @@ figcaption { /* estilo para el caption de las imágenes */
 	margin: auto;
 }
 
+/* CAMBIOS PARA <800/
 
-/* CAMBIOS PARA 800-1200*/
-
-@media screen and (min-width: 801px) and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
 
 	.menunav {
-	max-width:400px;  /* esto es para que la primera fila tenga máximo tres botones*/
+	max-width:500px;  /* esto es para que la primera fila tenga máximo tres botones*/
 	}
 
 	.header { /* estilo del encabezado */
@@ -375,7 +374,7 @@ figcaption { /* estilo para el caption de las imágenes */
 
 	h1 {     /* estilo el titulo */
 		font-family: 'perpeta';
-		font-size: 70px;
+		font-size: 60px;
 		font-weight: bold;
 		text-shadow: 2px 1px #383737;
 		text-align: center;
@@ -386,7 +385,7 @@ figcaption { /* estilo para el caption de las imágenes */
 	.contenido { /* estilo del div del contenido ancho de la página */
 		text-align: center;
 		background-color:#062442;
-		max-width:600px;
+		max-width:400px;
 		top: 20px;
 		margin:auto;  /* margen igual a izquierda y derecha */
 		margin-bottom: 20px;
@@ -396,7 +395,7 @@ figcaption { /* estilo para el caption de las imágenes */
 	.contenido2 { /* estilo del div del contenido de la página */
   	text-align: center;
   	background-color:#062442;
-  	max-width:500px;
+  	max-width:360px;
   	top: 20px;
   	margin:auto;  /* margen igual a izquierda y derecha */
   	margin-bottom: 20px;
@@ -405,7 +404,7 @@ figcaption { /* estilo para el caption de las imágenes */
 
 	.frase{ /* estilo del div de la frase de la página */
   	text-align: center;
-  	max-width:420px;
+  	max-width:240px;
   	top: 10px;
   	margin:auto;  /* margen igual a izquierda y derecha */
   	margin-bottom: 20px;
@@ -472,7 +471,6 @@ figcaption { /* estilo para el caption de las imágenes */
 
 
 }
-
 
 
 
