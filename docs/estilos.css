@@ -490,36 +490,14 @@ table { /* estilo de tabla */
 	border:hidden;
 }
 
-th { /* estilo de nombres de las columnas */
-	font-family: 'Calibri';
-	font-size: 16px;
-	text-align: center;
-	color: #ffffff;
-	padding: 8px;
-	background-color: #494652;
-    text-align: center;
-    border: 1px solid #ffffff;
-	width: 213px;
-}
-
-td {  /* estilo de celda en cada fila */
-	color:#ffffff;
-    font-family: 'Calibri';
-	font-size: 16px;
-	text-align: center;
-	padding: 8px;
-    border: 1px solid #ffffff;
-	border-radius: 5px; /* borde redondeado */
-	width: 213px;
-}
-
-
-	
-
-	
 	
 
 }
+
+
+
+
+
 
 
 
