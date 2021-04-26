@@ -588,7 +588,7 @@ h1 {     /* estilo el titulo */
 
 	h4 {  /* estilo frase */
 		font-family: 'perpeta';
-		font-size: 24px;
+		font-size: 30px;
 		text-align: center;
 		color: #ffffff;
 
@@ -596,14 +596,14 @@ h1 {     /* estilo el titulo */
 
 	h5 {  /* estilo 5 */
 		font-family: 'perpeta';
-		font-size: 13px;
+		font-size: 20px;
 		text-align: right;
 		color: #ffffff;
 	}
 
 	h6 {  /* estilo frase 2 */
 		font-family: 'perpeta';
-		font-size: 12px;
+		font-size: 18px;
 		text-align: center;
 		color: #ffffff;
 
