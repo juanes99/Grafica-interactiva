@@ -545,7 +545,7 @@ h1 {     /* estilo el titulo */
 
 	.frase{ /* estilo del div de la frase de la página */
   	text-align: center;
-  	max-width:400px;
+  	max-width:600px;
   	top: 10px;
   	margin:auto;  /* margen igual a izquierda y derecha */
   	margin-bottom: 20px;
@@ -588,7 +588,7 @@ h1 {     /* estilo el titulo */
 
 	h4 {  /* estilo frase */
 		font-family: 'perpeta';
-		font-size: 30px;
+		font-size: 70px;
 		text-align: center;
 		color: #ffffff;
 
