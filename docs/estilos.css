@@ -188,7 +188,7 @@ background-attachment: fixed;
 p { /* estilo del texto en párrafo*/
 	font-family: 'Calibri';
 	font-size: 18px;
-	text-align: center;
+	text-align: justify;
 	color:#ffffff;
 	padding: 0px 10px 0px 10px;
 }
@@ -385,15 +385,7 @@ fig2{ /* estilo para caja con sombra y caption dentro*/
 	float: center; 
 }
 fig3{ /* estilo para caja con sombra y caption dentro */
-	position: relative;
-	box-shadow:5px 5px #4e4d4d17;
-	margin:auto;
 	float: center; 
-	margin: 0px 15px 15px 15px;
-	border: 1px solid #c4c4c4;
-    border-radius: 4px; /* borde redondeado */
-    padding: 5px;
-	background-color: #10162b;
 }
 
 /* cambios en la barra de navegacion */
@@ -438,7 +430,7 @@ fig3{ /* estilo para caja con sombra y caption dentro */
 	p { /* estilo del texto en párrafo*/
 		font-family: 'Calibri';
 		font-size: 16px;
-		text-align: justify;
+		text-align: center;
 		color:#ffffff;
 		padding: 0px 10px 0px 10px;
 	}
