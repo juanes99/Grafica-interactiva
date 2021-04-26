@@ -381,10 +381,20 @@ h1 {     /* estilo el titulo */
 }
 
 
-fig2{ /* estilo para caja con sombra y caption dentro, izquierda*/
+fig2{ /* estilo para caja con sombra y caption dentro*/
 	float: center; 
 }
-
+fig3{ /* estilo para caja con sombra y caption dentro */
+	position: relative;
+	box-shadow:5px 5px #4e4d4d17;
+	margin:auto;
+	float: center; 
+	margin: 0px 15px 15px 15px;
+	border: 1px solid #c4c4c4;
+    border-radius: 4px; /* borde redondeado */
+    padding: 5px;
+	background-color: #10162b;
+}
 
 /* cambios en la barra de navegacion */
 .buttonav {
