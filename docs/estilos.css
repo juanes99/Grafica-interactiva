@@ -381,12 +381,6 @@ h1 {     /* estilo el titulo */
 }
 
 
-fig2{ /* estilo para caja con sombra y caption dentro*/
-	float: center; 
-}
-fig3{ /* estilo para caja con sombra y caption dentro */
-	float: center; 
-}
 
 /* cambios en la barra de navegacion */
 .buttonav {
@@ -430,7 +424,7 @@ fig3{ /* estilo para caja con sombra y caption dentro */
 	p { /* estilo del texto en párrafo*/
 		font-family: 'Calibri';
 		font-size: 16px;
-		text-align: center;
+		text-align: justify;
 		color:#ffffff;
 		padding: 0px 10px 0px 10px;
 	}
