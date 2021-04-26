@@ -188,7 +188,7 @@ background-attachment: fixed;
 p { /* estilo del texto en párrafo*/
 	font-family: 'Calibri';
 	font-size: 18px;
-	text-align: justify;
+	text-align: center;
 	color:#ffffff;
 	padding: 0px 10px 0px 10px;
 }
