@@ -536,7 +536,7 @@ h1 {     /* estilo el titulo */
 	.contenido2 { /* estilo del div del contenido de la página */
   	text-align: center;
   	background-color:#062442;
-  	max-width:400px;
+  	max-width:500px;
   	top: 20px;
   	margin:auto;  /* margen igual a izquierda y derecha */
   	margin-bottom: 20px;
@@ -545,7 +545,7 @@ h1 {     /* estilo el titulo */
 
 	.frase{ /* estilo del div de la frase de la página */
   	text-align: center;
-  	max-width:240px;
+  	max-width:400px;
   	top: 10px;
   	margin:auto;  /* margen igual a izquierda y derecha */
   	margin-bottom: 20px;
