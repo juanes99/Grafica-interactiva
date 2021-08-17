@@ -389,8 +389,8 @@ h1 {     /* estilo el titulo */
 .dropmenu {
   width: 30%;
 }
-	
-	
+
+
 	.contenido { /* estilo del div del contenido ancho de la página */
 		text-align: center;
 		background-color:#062442;
@@ -478,7 +478,7 @@ h1 {     /* estilo el titulo */
 	}
 
 
-	
+
 
 }
 
@@ -521,8 +521,8 @@ h1 {     /* estilo el titulo */
 .dropmenu {
   width: 30%;
 }
-	
-	
+
+
 	.contenido { /* estilo del div del contenido ancho de la página */
 		text-align: center;
 		background-color:#062442;
@@ -609,12 +609,27 @@ h1 {     /* estilo el titulo */
 
 	}
 
-	
+
 
 }
 
 
+/* estilos MAPA INTERACTIVO */
 
+/* estilo para la consola del mapa interactivo */
+
+
+/* estilo para canvas */
+canvas {
+  display: block;
+  margin: auto; /* para centrarla dentro de la div */
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0;
+  background-color: #000000;
+  border: 2px solid #420063;
+  max-width: 1435px;
+}
 
 
 
@@ -655,6 +670,12 @@ hr { /* estilo para líneas separadoras */
   background-color: #FFFFFF;
   border: 2px solid #420063;
 }
+.reproductor {
+  position: fixed;
+  bottom: 2.5%;
+  left: 18%;
+}
+
 
 /* enlace de correo sin acceder */
 .correo:link {
